@@ -4,6 +4,8 @@
 
 Aria2 超·懒人包，一键配置Aria2。注册Aria2后台进程为系统服务，让Aria2以Windows系统服务的方式自动运行。没有cmd窗口，方便进程管理，开机后无需用户登录即可自启动。
 
+![image](https://github.com/user-attachments/assets/ecaa55f2-636c-4a09-bdc6-e84654c007f9)
+
 ## 使用方法
 
 ### 安装
